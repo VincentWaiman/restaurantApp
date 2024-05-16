@@ -13,7 +13,7 @@ To run the code in this repository, follow these steps:
 
 Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/VincentWaiman/restaurantApp.git
 ```
 Navigate into the cloned directory:
 ```
