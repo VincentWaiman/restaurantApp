@@ -1,4 +1,6 @@
-Running Code with Docker Compose
+
+## Running Code with Docker Compose
+
 This repository contains code that can be easily run using Docker Compose. Docker Compose is a tool for defining and running multi-container Docker applications. It uses a YAML file to configure the application's services and then runs those services with a single command.
 
 Prerequisites
