@@ -13,8 +13,8 @@ app.config['SECRET_KEY'] = secrets.token_hex(16)
 
 db.init_app(app)
 
-# with app.app_context():
-#     db.create_all()
+with app.app_context():
+    db.create_all()
 
 # migrate = Migrate(app, db)
 
