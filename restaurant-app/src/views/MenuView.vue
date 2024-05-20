@@ -256,7 +256,7 @@ export default {
 					const newItem = response.data;
 
 					this.menuItems.push(newItem);
-					// window.location.reload();
+					window.location.reload();
 				}
 				this.isShowModal = false;
 			} catch (error) {
